@@ -1,0 +1,10 @@
+table Icon
+  Caption: qtcreator
+  CaptionTip: qtcreator
+  Command: qtcreator
+  Icon: /usr/share/icons/hicolor/64x64/apps/QtProject-qtcreator.png
+  Width: 48
+  Height: 48
+  X: 140
+  Y: 340
+end

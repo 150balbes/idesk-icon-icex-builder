@@ -1,0 +1,10 @@
+table Icon
+  Caption: rosa-imagewriter
+  CaptionTip: rosa-imagewriter
+  Command: rosa-imagewriter
+  Icon: /usr/share/icons/hicolor/32x32/apps/rosa-imagewriter.png
+  Width: 48
+  Height: 48
+  X: 140
+  Y: 240
+end

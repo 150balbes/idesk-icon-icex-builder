@@ -1,0 +1,10 @@
+table Icon
+  Caption: meld
+  CaptionTip: meld
+  Command: meld
+  Icon: /usr/share/icons/hicolor/32x32/apps/meld.png
+  Width: 48
+  Height: 48
+  X: 240
+  Y: 340
+end

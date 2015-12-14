@@ -1,0 +1,10 @@
+table Icon
+  Caption: geany
+  CaptionTip: geany
+  Command: geany
+  Icon: /usr/share/icons/hicolor/48x48/apps/geany.png
+  Width: 48
+  Height: 48
+  X: 240
+  Y: 140
+end

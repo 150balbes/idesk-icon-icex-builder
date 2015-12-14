@@ -1,0 +1,10 @@
+table Icon
+  Caption: distronavigator
+  CaptionTip: distronavigator
+  Command: distronavigator
+  Icon: /usr/share/icons/hicolor/48x48/apps/distronavigator.png
+  Width: 48
+  Height: 48
+  X: 140
+  Y: 40
+end

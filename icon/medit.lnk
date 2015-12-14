@@ -1,0 +1,10 @@
+table Icon
+  Caption: medit
+  CaptionTip: medit
+  Command: medit
+  Icon: /usr/share/icons/hicolor/48x48/apps/medit.png
+  Width: 48
+  Height: 48
+  X: 240
+  Y: 240
+end

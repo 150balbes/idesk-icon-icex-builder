@@ -1,0 +1,10 @@
+table Icon
+  Caption: gimp
+  CaptionTip: gimp
+  Command: gimp
+  Icon: /usr/share/icons/hicolor/48x48/apps/gimp.png
+  Width: 48
+  Height: 48
+  X: 140
+  Y: 540
+end

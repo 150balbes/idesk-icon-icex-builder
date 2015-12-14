@@ -1,0 +1,10 @@
+table Icon
+  Caption: mp-gui
+  CaptionTip: mp-gui
+  Command: mp-gui
+  Icon: /usr/share/icons/hicolor/48x48/apps/mp-gui.png
+  Width: 48
+  Height: 48
+  X: 140
+  Y: 140
+end

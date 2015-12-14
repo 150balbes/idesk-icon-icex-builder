@@ -1,0 +1,10 @@
+table Icon
+  Caption: virtualbox
+  CaptionTip: virtualbox
+  Command: virtualbox
+  Icon: /usr/share/icons/hicolor/48x48/apps/virtualbox.png
+  Width: 48
+  Height: 48
+  X: 140
+  Y: 440
+end

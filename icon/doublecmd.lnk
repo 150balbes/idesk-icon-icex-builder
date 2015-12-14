@@ -1,0 +1,11 @@
+table Icon
+  Caption: doublecmd
+  CaptionTip: doublecmd
+  Command: doublecmd
+  Icon: /usr/share/pixmaps/doublecmd.png
+  Width: 48
+  Height: 48
+  X: 239
+  Y: 439
+end
+
