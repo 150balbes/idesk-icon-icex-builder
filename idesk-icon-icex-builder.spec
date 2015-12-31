@@ -1,6 +1,6 @@
 Name: idesk-icon-icex-builder
 Version: 0.0.1
-Release: alt2
+Release: alt3
 
 Summary: Icon for idesk icex-builder
 Group: Graphical desktop/Icewm
@@ -28,5 +28,8 @@ tar xf %SOURCE0 -C %buildroot%_sysconfdir/idesk.d/
 %_sysconfdir/idesk.d/icon/*
 
 %changelog
+* Sun Dec 31 2015 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.1-alt3
+- add distrohelper.lnk
+
 * Sun Nov 18 2015 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.1-alt2
 - init

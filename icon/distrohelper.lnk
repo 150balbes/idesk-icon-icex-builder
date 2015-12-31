@@ -1,0 +1,10 @@
+table Icon
+  Caption: DistroHelper
+  CaptionTip: DistroHelper
+  Command: distrohelper
+  Icon: /usr/share/icons/hicolor/48x48/apps/distrohelper.png
+  Width: 48
+  Height: 48
+  X: 340
+  Y: 40
+end
