@@ -1,0 +1,10 @@
+table Icon
+  Caption: Nemiver
+  CaptionTip: Nemiver
+  Command: nemiver
+  Icon: /usr/share/icons/hicolor/48x48/apps/nemiver.png
+  Width: 48
+  Height: 48
+  X: 340
+  Y: 140
+end
