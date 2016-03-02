@@ -25,7 +25,7 @@ tar -xzf %SOURCE0 -C %buildroot%_sysconfdir/skel
 
 %files
 %dir %_sysconfdir/skel/.idesktop
-%_sysconfdir/skel/idesktop/*
+%_sysconfdir/skel/.idesktop/*
 
 %changelog
 * Sun Mar 02 2016 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.2-alt1
