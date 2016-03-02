@@ -10,7 +10,7 @@ Packager: Oleg Ivanov <Leo-sp150@yandex.ru>
 
 Requires: idesk >= 0.7.5-alt10
 
-Source0: icon.tar.gz
+Source0: .idesktop.tar.gz
 
 BuildArch: noarch
 
