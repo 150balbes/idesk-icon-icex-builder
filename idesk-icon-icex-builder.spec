@@ -1,6 +1,6 @@
 Name: idesk-icon-icex-builder
-Version: 0.0.1
-Release: alt4
+Version: 0.0.2
+Release: alt1
 
 Summary: Icon for idesk icex-builder
 Group: Graphical desktop/Icewm
@@ -10,7 +10,7 @@ Packager: Oleg Ivanov <Leo-sp150@yandex.ru>
 
 Requires: idesk >= 0.7.5-alt10
 
-Source0: icon.tar
+Source0: icon.tar.gz
 
 BuildArch: noarch
 
@@ -20,14 +20,17 @@ Icon for idesk icex-builder
 %prep
 %build
 %install
-mkdir -p %buildroot%_sysconfdir/idesk.d/icon
-tar xf %SOURCE0 -C %buildroot%_sysconfdir/idesk.d/
+mkdir -p %buildroot%_sysconfdir/idesk/icon
+tar -xzf %SOURCE0 -C %buildroot%_sysconfdir/idesk/
 
 %files
-%dir %_sysconfdir/idesk.d/icon
-%_sysconfdir/idesk.d/icon/*
+%dir %_sysconfdir/idesk/icon
+%_sysconfdir/idesk/icon/*
 
 %changelog
+* Sun Mar 02 2016 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.2-alt1
+- new ver
+
 * Sun Jan 03 2016 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.1-alt4
 - add nemiver.lnk
 
