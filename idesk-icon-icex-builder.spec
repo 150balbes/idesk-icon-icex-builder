@@ -20,12 +20,12 @@ Icon for idesk icex-builder
 %prep
 %build
 %install
-mkdir -p %buildroot%_sysconfdir/idesk/icon
-tar -xzf %SOURCE0 -C %buildroot%_sysconfdir/idesk/
+mkdir -p %buildroot%_sysconfdir/skel
+tar -xzf %SOURCE0 -C %buildroot%_sysconfdir/skel
 
 %files
-%dir %_sysconfdir/idesk/icon
-%_sysconfdir/idesk/icon/*
+%dir %_sysconfdir/skel/.idesktop
+%_sysconfdir/skel/idesktop/*
 
 %changelog
 * Sun Mar 02 2016 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.2-alt1
