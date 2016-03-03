@@ -5,6 +5,6 @@ table Icon
   Icon: /usr/share/icons/hicolor/48x48/apps/nemiver.png
   Width: 48
   Height: 48
-  X: 340
-  Y: 140
+  X: 40
+  Y: 540
 end

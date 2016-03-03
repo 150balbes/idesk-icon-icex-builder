@@ -1,5 +1,5 @@
 Name: idesk-icon-icex-builder
-Version: 0.0.2
+Version: 0.0.3
 Release: alt1
 
 Summary: Icon for idesk icex-builder
@@ -28,6 +28,9 @@ tar -xzf %SOURCE0 -C %buildroot%_sysconfdir/skel
 %_sysconfdir/skel/.idesktop/*
 
 %changelog
+* Sun Mar 03 2016 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.3-alt1
+- new ver
+
 * Sun Mar 02 2016 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.2-alt1
 - new ver
 
